@@ -15,6 +15,6 @@
 ![컬럼 정보](https://github.com/user-attachments/assets/49c4d45d-6b56-40cc-983d-10d1ed82b08a)
 #### 5. 오라클 특정 테이블 원하는 정보 추출 / 위의 탈취한 테이블의 컬럼 값 으로 원하는 정보 추출
 #### SELECT LISTAGG(title || ' - ' || writer || ' - ' || publisher), NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL from BOOKCASE3--  
-![전체추출](https://github.com/user-attachments/assets/757a3055-56a4-4ce0-af65-aa417f99b21e)
-
+![전체추출](https://github.com/user-attachments/assets/757a3055-56a4-4ce0-af65-aa417f99b21e)  
+### 공부 시 추가 할 예정...
 
